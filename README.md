@@ -1,3 +1,3 @@
 # Desarrollo-de-Aplicaciones
 
-![screenshot](https://github.com/pfornari/CHDA/desafio1.png)
+![screenshot](https://github.com/pfornari/CHDA/main/desafio1.png)
